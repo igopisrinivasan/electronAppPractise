@@ -1,0 +1,20 @@
+{
+  "name": "electronAppPractise",
+  "version": "1.0.0",
+  "description": "Build an Electron App in Under 60 Minutes",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igopisrinivasan/electronAppPractise.git"
+  },
+  "keywords": ["Electron"],
+  "author": "Gopi Srinivasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igopisrinivasan/electronAppPractise/issues"
+  },
+  "homepage": "https://github.com/igopisrinivasan/electronAppPractise#readme"
+}
